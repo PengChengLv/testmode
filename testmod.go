@@ -2,5 +2,5 @@ package testmod
 import "fmt"
  // Print prints String "Hello, World!"
 func Print() {
-	fmt.Println("Hello, lpc!")
+	fmt.Println("Hello, lpci gss!")
 }
